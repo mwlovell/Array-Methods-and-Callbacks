@@ -49,7 +49,7 @@ Your goal today will be to manipulate the data using array methods and callbacks
 
 ### Task 1: Set up Project
 
-Using VSCode and Command Line:
+Using VSCode and Command Line: 
 
 
 1. Fork the repo
